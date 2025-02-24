@@ -10,7 +10,7 @@ jobs:
 
         runs-on: ubuntu-latest
 
-        name: __BLANK 3__
+        name: Lint and Test
 
         steps:
 
